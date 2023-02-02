@@ -11,6 +11,6 @@
 <br>
 * i,m front end developer ❤️
 <br>
-* [html-css-js-sass-bootstarb-git&githup] this is my Experiences in front end right now
+* [html-css-js-sass-bootstarb-git&githup-typescript-reactjs-reactHooks-reactRedux] this is my skills
 <br>
 * i live in egypt=>ismailia, i,m 20 years old
