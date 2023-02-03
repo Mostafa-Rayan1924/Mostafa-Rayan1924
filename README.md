@@ -12,7 +12,6 @@
 <br>
 - ⚡ Fun fact: ask me about anything 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924)](https://github.com/anuraghazra/github-readme-stats)
 <ul>
  <b>Skills:</b>
  <li>HTML</li>
