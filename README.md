@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning  node js 
 <br>
 - ⚡ Fun fact: ask me about anything 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=s)](https://github.com/anuraghazra/github-readme-stats)
+
 <ul>
  <b>Skills:</b>
  <li>HTML</li>
