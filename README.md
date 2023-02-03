@@ -1,8 +1,6 @@
-### Hi there 👋, My name is mostafa
-#### I am passionate front end developer
-![I am passionate front end developer](https://images.pexels.com/photos/2882568/pexels-photo-2882568.jpeg?auto=compress&cs=tinysrgb&w=1600)
-
-
+<h1 align="center">Hi there 👋, My name is mostafa</h1>
+<h2 align="center">I am passionate front end developer</h2>
+<hr>
 Skills: HTML / CSS / JS / BOOTSTRAB / SASS / TYPESCRIPT/ GIT&GITHUB / REACT.JS
 
 - 🔭 I’m currently working on E-commerce 
