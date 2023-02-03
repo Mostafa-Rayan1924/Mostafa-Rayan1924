@@ -2,7 +2,9 @@
  <h1 align="center">Hi there 👋, My name is mostafa </h1>
  <h2 align="center">I am passionate front end developer</h2>
  <hr>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostafa-Rayan1924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MOSTAFA/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MOSTAFA )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MOSTAFA/)
+<span><a href="https://www.facebook.com/tata.rayan.5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"></a></span>
+<span><a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a></span>
+<span><a href="https://www.instagram.com/mostafarayan7/?hl=en"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a></span>
 <br>
 - 🔭 I’m currently working on  E-commerce 
 - 🌱 I’m currently learning  node js 
