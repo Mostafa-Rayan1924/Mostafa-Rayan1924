@@ -1,18 +1,20 @@
 <h1 align="center">Hi there 👋, My name is mostafa </h1>
 <h2 align="center">I am passionate front end developer</h2>
-<img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600" height="200px">
-I am a student in the third year of the faculty of computers and information technology, Suez Canal University
-Skills: 
-* HTML
-* CSS 
-* JS
-* BOOTSRTRAB
-* SASS
-* TYPESCRIPT
-* GIT&GITHUP
-* REACT
-* REACT HOOKS
-* REACT REDUX 
+<img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600" height="250px" width="400px">
+<h3>I am a student in the third year of the faculty of computers and information technology, Suez Canal University</h3>
+<ul>
+ <h5>Skills:</h5>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+ <li>BOOTSTRAB</li>
+ <li>TYPESCRIPT</li>
+ <li>SASS</li>
+ <li>REACT</li>
+ <li>REACT HOOKS</li>
+ <li>REACT REDUX</li>   
+ <li>GIT&GITHUB</li>   
+</ul>
 - 🔭 I’m currently working on this page. 
 
 
