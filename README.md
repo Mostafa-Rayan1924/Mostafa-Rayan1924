@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, My name is mostafa </h1>
 #### I am passionate front end developer
-![I am passionate front end developer](https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600)
+<img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600">
 
 I am a student in the third year of the faculty of computers and information technology, Suez Canal University
 
