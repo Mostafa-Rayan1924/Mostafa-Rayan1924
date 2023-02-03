@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, My name is mostafa </h1>
 <h2 align="center">I am passionate front end developer</h2>
-<img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600" height="250px" width="400px">
+<img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600" height="250px" width="100%">
 <h3>I am a student in the third year of the faculty of computers and information technology, Suez Canal University</h3>
 <ul>
  <b>Skills:</b>
