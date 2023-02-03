@@ -2,9 +2,9 @@
  <h1 align="center">Hi there 👋, My name is mostafa </h1>
  <h2 align="center">I am passionate front end developer</h2>
  <hr>
-<span><a href="https://www.facebook.com/tata.rayan.5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="70px" height="70px"></a></span>
+<span align="center"><span><a href="https://www.facebook.com/tata.rayan.5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="70px" height="70px"></a></span>
 <span><a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="70px" height="70px"></a></span>
-<span><a href="https://www.instagram.com/mostafarayan7/?hl=en"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="70px" height="70px"></a></span>
+<span><a href="https://www.instagram.com/mostafarayan7/?hl=en"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="70px" height="70px"></a></span></span>
 <br>
 - 🔭 I’m currently working on  E-commerce 
 <br>
@@ -12,8 +12,7 @@
 <br>
 - ⚡ Fun fact: ask me about anything 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Rayan1924&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924)](https://github.com/anuraghazra/github-readme-stats)
 <ul>
  <b>Skills:</b>
  <li>HTML</li>
