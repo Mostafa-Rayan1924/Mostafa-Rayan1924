@@ -3,7 +3,7 @@
 <img src="https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600" height="250px" width="400px">
 <h3>I am a student in the third year of the faculty of computers and information technology, Suez Canal University</h3>
 <ul>
- <h5>Skills:</h5>
+ <b>Skills:</b>
  <li>HTML</li>
  <li>CSS</li>
  <li>JAVASCRIPT</li>
