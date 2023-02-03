@@ -1,12 +1,17 @@
-<h1 align="center">Hello i.m Mostafa 👋</h1>
-#### A passionate frontend developer from Egypt
-![A passionate frontend developer from Egypt](https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am a student in the third year in the faculty of computers and information technology Suez Canal University
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Html / Css / javascript / Bootstrab / Sass / Typescript / React.js / React hooks / React redux / Git&Github
+Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
