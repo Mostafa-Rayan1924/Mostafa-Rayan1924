@@ -7,9 +7,13 @@
 <span><a href="https://www.instagram.com/mostafarayan7/?hl=en"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="70px" height="70px"></a></span>
 <br>
 - 🔭 I’m currently working on  E-commerce 
+<br>
 - 🌱 I’m currently learning  node js 
+<br>
 - ⚡ Fun fact: ask me about anything 
-<span>https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924 https://github.com/anuraghazra/github-readme-stats</span> <span>GitHub stats https://github-readme-stats.vercel.app/api?username=Mostafa-Rayan1924&show_icons=true </span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Rayan1924)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Rayan1924&show_icons=true)  
 <ul>
  <b>Skills:</b>
  <li>HTML</li>
