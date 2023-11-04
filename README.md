@@ -157,7 +157,7 @@
                />
             </a>
             <img
-               src="https://images.search.yahoo.com/images/view;_ylt=AwrEtMYaokZlGpIFvQeJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzQ2Mzg1MjRlYWE5OWRhOWNlNDg0YTg4MDllZjY2OTg5BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dtailwind%2Bcss%26ei%3DUTF-8%26type%3DE210US714G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D3&w=1920&h=1080&imgurl=jefrydco.id%2F_nuxt%2Fimg%2Fhow-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg&rurl=https%3A%2F%2Fjefrydco.id%2Fen%2Fblog%2Fhow-tailwind-css-help-reduce-workload%2F&size=29.2KB&p=tailwind+css&oid=4638524eaa99da9ce484a8809ef66989&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=How+Tailwind+CSS+Helps+Reduce+Our+Workload%3F+-+Jefrydco&b=0&ni=160&no=3&ts=&tab=organic&sigr=Fsc3xTrJqu9y&sigb=fY6UR7HYCJCC&sigi=EUiHJ1VuyrxI&sigt=hflIH395ophf&.crumb=.u4MqiAvM6D&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210US714G0"
+               src="https://tse2.mm.bing.net/th?id=OIP.oPL8C-i04sqAUoOS_da9aAHaEK&pid=Api&P=0&h=220"
                alt="tailwind icon"
                height="32"
                />
@@ -168,39 +168,9 @@
                height="32"
                />
             </a>
-         </td>
-      </tr>
-      <tr>
-         <td>Desktop</td>
-         <td>
-            <a href="https://openjfx.io/" title="JavaFX">
-            <img
-               src="https://static.wixstatic.com/media/2724b2_a4c660815dde4271be00cb7e9b9cae2c~mv2.png/v1/fit/w_605%2Ch_533%2Cal_c/file.png"
-               alt="JavaFX"
-               height="32"
-               />
-            </a>
-            <a href="https://www.java.com/en/" title="Java">
-            <img
-               src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"
-               alt="Java"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://gluonhq.com/products/scene-builder/"
-               title="scenebuilder"
-               >
-            <img
-               src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"
-               alt="scenebuilder"
-               height="32"
-               />
-            </a>
-            <a href="https://netbeans.apache.org/" title="Netbeans">
-            <img
-               src="https://netbeans.apache.org/images/apache-netbeans.svg"
-               alt="Netbeans"
+    <img
+               src="https://tse2.mm.bing.net/th?id=OIP.mUrucUZG_T1rIvYYi1mt9wHaGI&pid=Api&P=0&h=220"
+               alt="next icon"
                height="32"
                />
             </a>
