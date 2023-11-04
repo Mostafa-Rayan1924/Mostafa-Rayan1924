@@ -46,13 +46,7 @@
                height="32"
                />
             </a>
-            <a href="https://github.com/zsh-users/zsh" title="virtualbox ">
-            <img
-               src="https://cdn-icons-png.flaticon.com/512/873/873151.png"
-               alt="virtualbox icon"
-               height="32"
-               />
-            </a>
+           
          </td>
       </tr>
       <tr>
