@@ -149,43 +149,23 @@
                height="32"
                />
             </a>
-         </td>
-      </tr>
-      <tr>
-           <td>Backend</td>
-         <td>
-            <a
-               href="#"
-               title="nodejs"
-               >
+            <a  title="react">
             <img
-               src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
-               alt="nodejs"
+               src="https://tse3.mm.bing.net/th?id=OIP.dJTqBQy3mMnMdI8klN_kHAHaGT&pid=Api&P=0&h=220"
+               alt="react icon"
                height="32"
                />
             </a>
-            <a
-               href="#"
-               title="Expressjs"
-               >
             <img
-               src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
-               alt="Expressjs"
+               src="https://images.search.yahoo.com/images/view;_ylt=AwrEtMYaokZlGpIFvQeJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzQ2Mzg1MjRlYWE5OWRhOWNlNDg0YTg4MDllZjY2OTg5BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dtailwind%2Bcss%26ei%3DUTF-8%26type%3DE210US714G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D3&w=1920&h=1080&imgurl=jefrydco.id%2F_nuxt%2Fimg%2Fhow-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg&rurl=https%3A%2F%2Fjefrydco.id%2Fen%2Fblog%2Fhow-tailwind-css-help-reduce-workload%2F&size=29.2KB&p=tailwind+css&oid=4638524eaa99da9ce484a8809ef66989&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=How+Tailwind+CSS+Helps+Reduce+Our+Workload%3F+-+Jefrydco&b=0&ni=160&no=3&ts=&tab=organic&sigr=Fsc3xTrJqu9y&sigb=fY6UR7HYCJCC&sigi=EUiHJ1VuyrxI&sigt=hflIH395ophf&.crumb=.u4MqiAvM6D&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210US714G0"
+               alt="tailwind icon"
                height="32"
                />
             </a>
-            <a href="#" title="MongoDB">
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-               alt="MongoDB"
-               height="30"
-               />
-            </a>
-            <a href="#" title="Postman">
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
-               alt="Postman"
-               height="30"
+    <img
+               src="https://tse2.mm.bing.net/th?id=OIP.maKe3jXsLd8flovNsX2_3QAAAA&pid=Api&P=0&h=220"
+               alt="type script icon"
+               height="32"
                />
             </a>
          </td>
