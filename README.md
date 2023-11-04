@@ -45,8 +45,7 @@
                alt="Windows"
                height="32"
                />
-            </a>
-           
+            </a> 
          </td>
       </tr>
       <tr>
