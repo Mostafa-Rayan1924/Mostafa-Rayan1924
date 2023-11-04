@@ -176,46 +176,11 @@
             </a>
          </td>
       </tr>
-      <tr>
-         <td>Games</td>
-         <td>
-            <a
-               href="https://www.w3schools.com/cpp/default.asp"
-               title="C++"
-               >
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"
-               alt="C++"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://www.sfml-dev.org/"
-               title="SFML"
-               >
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"
-               alt="SFML"
-               height="32"
-               />
-            </a>
-            <a href="https://www.opengl.org/" title="OpenGl">
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"
-               alt="OpenGl"
-               height="30"
-               />
-            </a>
-         </td>
-      </tr>
    </tbody>
 </table>
-
-<!--<h2> Programming Languages</h2>
-
+<h2> Programming Languages</h2>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -227,6 +192,6 @@
 
 ***The most important step of all is the first step. Start something.***
 
-***— Blake Mycoskie***
+***— Mostafa Rayan***
 
 <hr>
