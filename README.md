@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rayan</h1>
-<h3 align="center">Software Engineer(Front end)</h3>
+<h3 align="center">Software Engineer (Front End)</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (fci);front END+Developer+with+ReactJS;" alt="Typing SVG" /></a>
@@ -14,7 +14,8 @@
 
   <a href="https://www.facebook.com/tata.rayan.5" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                      
+      alt="ali Nour" height="30" width="40" /></a>   
+      
   <a href="https://www.instagram.com/mostafarayan7/" target="blank">
   <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
