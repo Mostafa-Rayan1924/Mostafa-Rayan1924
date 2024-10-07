@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer(Front End)</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (SCU);Backend+Developer+with+NodeJS;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NodeJS;" alt="Typing SVG" /></a>
 </p>
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMosalam1&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMosalam" /> </p>
@@ -29,13 +29,6 @@
       <tr>
          <td>OS</td>
          <td>
-            <a href="https://zorin.com/os/" title="Linux / Zorin">
-            <img
-               src="http://2.bp.blogspot.com/-gmuKwnwMDvM/UtPp9l4CvVI/AAAAAAAAHJc/bFKlsP-RTjI/s300/zorinos-thumb.jpg"
-               alt="Zorin OS"
-               height="32"
-               />
-            </a>
             <a
                href="https://www.microsoft.com/en-us/software-download/windows10"
                title="Windows"
@@ -46,10 +39,10 @@
                height="32"
                />
             </a>
-            <a href="https://github.com/zsh-users/zsh" title="virtualbox ">
+            <a href="" title="virtualbox ">
             <img
-               src="https://cdn-icons-png.flaticon.com/512/873/873151.png"
-               alt="virtualbox icon"
+               src="https://www.linux.org/images/logo.png"
+               alt="Linux icon"
                height="32"
                />
             </a>
@@ -91,7 +84,7 @@
             </a>
             <a href="https://mozilla.org/firefox/" title="Figma">
             <img
-               src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67"
+               src="https://s.yimg.com/zb/imgv1/8c5e5e6e-2324-3f87-8ad8-3038797b7551/t_1024x1024"
                alt="Figma icon"
                height="32"
                />
@@ -149,10 +142,38 @@
                height="32"
                />
             </a>
-            <a href="https://fontawesome.com" title="Fontawesome 5 and 6">
+            <a href="">
             <img
-               src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg"
-               alt="fontaweseome icon"
+               src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220"
+               alt=""
+               height="32"
+               />
+            </a>
+             <a href="">
+            <img
+               src="https://github.com/pmndrs/zustand/raw/main/docs/bear.jpg"
+               alt=""
+               height="32"
+               />
+            </a>
+            <a href="">
+            <img
+               src="https://s.yimg.com/fz/api/res/1.2/MjFHxegpjdQIkkLfkKy58Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/30a711af-ec24-3047-a9ac-5306c7904006/t_500x300"
+               alt=""
+               height="32"
+               />
+            </a>
+            <a href="">
+            <img
+               src=""
+               alt=""
+               height="32"
+               />
+            </a>
+            <a href="">
+            <img
+               src=""
+               alt=""
                height="32"
                />
             </a>
