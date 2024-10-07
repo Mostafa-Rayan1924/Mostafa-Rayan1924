@@ -106,7 +106,7 @@
          </td>
       </tr>
      <tr>
-         <td>Frontend</td>
+<!--          <td>Frontend</td>
          <td>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="32"/>
@@ -123,7 +123,7 @@
             <a href="#">
               <img src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220" alt="" height="32"/>
             </a>
-         </td>
+         </td> -->
       </tr>
       <tr>
            <td>Backend</td>
