@@ -105,70 +105,24 @@
             </a>
          </td>
       </tr>
-      <tr>
+     <tr>
          <td>Frontend</td>
          <td>
-            <a
-               href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-               title="JavaScript"
-               >
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-               alt="javascript"
-               height="32"
-               />
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="32"/>
             </a>
             <a href="https://www.w3schools.com/css/" title="Css">
-            <img
-               src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
-               alt="css icon"
-               height="32"
-               />
+              <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css icon" height="32"/>
             </a>
-            <a
-               href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-               title="HTML 5"
-               >
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
-               alt="HTML Icon"
-               height="32"
-               />
+            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML Icon" height="32"/>
             </a>
+            <br> <!-- السطر الجديد يمنع التمرير ويقسم الصفوف بشكل أفضل -->
             <a href="https://getbootstrap.com" title="Bootstrap 4 and 5">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-               alt="Bootstrap Icon"
-               height="32"
-               />
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" height="32"/>
             </a>
-            <a href="">
-            <img
-               src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220"
-               alt=""
-               height="32"
-               />
-            </a>
-             <a href="">
-            <img
-               src="https://github.com/pmndrs/zustand/raw/main/docs/bear.jpg"
-               alt=""
-               height="32"
-               />
-            </a>
-            <a href="">
-            <img
-               src="https://tse1.mm.bing.net/th?id=OIP.K-4RqDC6zFrpAG31ayDDOgHaHa&pid=Api&P=0&h=220"
-               alt=""
-               height="32"
-               />
-            </a>
-            <a href="">
-            <img
-               src="https://tse2.mm.bing.net/th?id=OIP.mUrucUZG_T1rIvYYi1mt9wHaGI&pid=Api&P=0&h=220"
-               alt=""
-               height="32"
-               />
+            <a href="#">
+              <img src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220" alt="" height="32"/>
             </a>
          </td>
       </tr>
