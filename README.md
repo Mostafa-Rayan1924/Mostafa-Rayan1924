@@ -117,7 +117,6 @@
             <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML Icon" height="32"/>
             </a>
-            <br> <!-- السطر الجديد يمنع التمرير ويقسم الصفوف بشكل أفضل -->
             <a href="https://getbootstrap.com" title="Bootstrap 4 and 5">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" height="32"/>
             </a>
