@@ -170,13 +170,6 @@
                height="32"
                />
             </a>
-            <a href="https://s.yimg.com/fz/api/res/1.2/GrY1lq8BNJ7rHgGzUh1KsA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/c393182f-4a82-362c-aaee-2357ffe1f515/t_500x300">
-            <img
-               src=""
-               alt=""
-               height="32"
-               />
-            </a>
          </td>
       </tr>
       <tr>
