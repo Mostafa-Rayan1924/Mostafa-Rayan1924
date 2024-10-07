@@ -1,199 +1,133 @@
-<h1 align="center">Hi 👋, I'm Mostafa Rayan</h1>
-<h3 align="center">Software Engineer (Front End)</h3>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" height=170 />
+</div>
+<div id="badges"align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (fci);front END+Developer+with+ReactJS;" alt="Typing SVG" /></a>
-</p>
+ 
+![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2Feman.ghazy.7509)
 
-- 📫 How to reach me **mr3309296@gmail.com**
+![Static Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feman-ghazy-541067208)
+</div>
+<div id="header1" align="center">
+	
+<!--[![committers.top badge](https://user-badge.committers.top/egypt/EmanGhazy-2002.svg)](https://user-badge.committers.top/egypt/EmanGhazy-2002) -->
+  <img src="https://komarev.com/ghpvc/?username=EmanGhazy-2002&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
+</div>
+<div id="view" align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Back-End+Developer)](https://git.io/typing-svg)
+<!--<h1>
+  Hi.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>-->
+</div>  
 
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczMzU5ODgsIm5iZiI6MTcwNzMzNTY4OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDE5NTQ0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2M2M3NWU1YTNkODhiODliYTAzYWFlNDZlMWVhMzJiMzNhZjQyOGFlOGY1MmYzNzgzZDhkOTg3YWJjNDRjZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iSNuRTrr7nwxFiMJPe8QpOaW43Zvsdd4TbPCae4IzLI" width="300">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmostafa-rayan-86305b247%2F%3Ffbclid%3DIwAR0zow3YJAUkquxzUj9c1vOsWhsqh_bXd7WtOmjmwh8peM2aFoIPbHO_wcU&h=AT2OmOBAGeFTpk8USiWblX6bYvJgqFSI54RyB0c0YZ28HN_kKyN8f14dwu4bMmZNA3PPvjKfi0-3GbOe1SI4KzHTge7JSN3TjKUISG_nKaok16aNxb9nNVk-Q1kcyG_mNP7NjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
+ ## Old Account : [EmanGhazy2002](https://github.com/EmanGhazy2002)
+</div>
 
-  <a href="https://www.facebook.com/tata.rayan.5" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ali Nour" height="30" width="40" /></a>   
-      
-  <a href="https://www.instagram.com/mostafarayan7/" target="blank">
-  <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ali Nour" height="30" width="40" /></a>                                        
+---
+### 👩‍💻: About Me :
+```node
+#SPDX-License-Identifier: MIT
+pragma npm ^3.10.1
+class Profile {
+    constructor() {
+        this.name = "Eman Ghazy";
+        this.jobTitle = "Back-End Developer";
+        this.country = "Egypt";
+        this.currentlyWorking = ["Nodejs", "Mongodb", "Restful Api"];
+        this.currentlyLearning = ["Advanced Nodejs", "Mongodb with Mongoose"];
+    }
 
+    getSkills() {
+        let skills = ["Nodejs", "PHP", "Laravel", "Js", "Python", "C/C++", "HTML & CSS"];
+        return skills;
+    }
+}
 
+const myProfile = new Profile();
+console.log("Name:", myProfile.name);
+console.log("Job Title:", myProfile.jobTitle);
+console.log("Country:", myProfile.country);
+console.log("Currently Working:", myProfile.currentlyWorking);
+console.log("Currently Learning:", myProfile.currentlyLearning);
+console.log("Skills:", myProfile.getSkills());
+```
+---
 
-</p>
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+ 
+ 
+  ![Node-js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express-js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-## Stack
-<table>
-   <tbody>
-      <tr>
-         <td>OS</td>
-         <td>
-            <a href="https://zorin.com/os/" title="Linux / Zorin">
-            <img
-               src="http://2.bp.blogspot.com/-gmuKwnwMDvM/UtPp9l4CvVI/AAAAAAAAHJc/bFKlsP-RTjI/s300/zorinos-thumb.jpg"
-               alt="Zorin OS"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://www.microsoft.com/en-us/software-download/windows10"
-               title="Windows"
-               >
-            <img
-               src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"
-               alt="Windows"
-               height="32"
-               />
-            </a> 
-         </td>
-      </tr>
-      <tr>
-         <td>Tools</td>
-         <td>
-            <a href="https://code.visualstudio.com/" title="VSCode">
-            <img
-               src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
-               alt="VSCode icon"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://www.mathworks.com/products/matlab.html"
-               title="Matlab"
-               >
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"
-               alt="Matlab Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://git-scm.org" title="git">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-               alt="git icon"
-               height="32"
-               />
-            </a>
-            <a href="https://github.com" title="GitHub">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-               alt="GitHub icon"
-               height="32"
-               />
-            </a>
-            <a href="https://mozilla.org/firefox/" title="Figma">
-            <img
-               src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67"
-               alt="Figma icon"
-               height="32"
-               />
-            </a>
-            <a href="https://www.google.com/chrome/" title="Chrome">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"
-               alt="Chrome Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://mozilla.org/firefox/" title="Firefox">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg"
-               alt="Firefox icon"
-               height="32"
-               />
-            </a>
-         </td>
-      </tr>
-      <tr>
-         <td>Frontend</td>
-         <td>
-            <a
-               href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-               title="JavaScript"
-               >
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-               alt="javascript"
-               height="32"
-               />
-            </a>
-            <a href="https://www.w3schools.com/css/" title="Css">
-            <img
-               src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
-               alt="css icon"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-               title="HTML 5"
-               >
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
-               alt="HTML Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://getbootstrap.com" title="Bootstrap 4 and 5">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-               alt="Bootstrap Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://fontawesome.com" title="Fontawesome 5 and 6">
-            <img
-               src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg"
-               alt="fontaweseome icon"
-               height="32"
-               />
-            </a>
-            <a  title="react">
-            <img
-               src="https://tse3.mm.bing.net/th?id=OIP.dJTqBQy3mMnMdI8klN_kHAHaGT&pid=Api&P=0&h=220"
-               alt="react icon"
-               height="32"
-               />
-            </a>
-            <img
-               src="https://tse2.mm.bing.net/th?id=OIP.oPL8C-i04sqAUoOS_da9aAHaEK&pid=Api&P=0&h=220"
-               alt="tailwind icon"
-               height="32"
-               />
-            </a>
-    <img
-               src="https://tse2.mm.bing.net/th?id=OIP.maKe3jXsLd8flovNsX2_3QAAAA&pid=Api&P=0&h=220"
-               alt="type script icon"
-               height="32"
-               />
-            </a>
-    <img
-               src="https://tse2.mm.bing.net/th?id=OIP.mUrucUZG_T1rIvYYi1mt9wHaGI&pid=Api&P=0&h=220"
-               alt="next icon"
-               height="32"
-               />
-            </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-<h2> Programming Languages</h2>
-<p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://camo.githubusercontent.com/3bded904a0ba3f43805cf0e1bbea466a8f942158271015693d2e3f97db0d2775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"></a>
-   
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+---
 
-***The most important step of all is the first step. Start something.***
+### :fire: My Stats :
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmanGhazy-2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/EmanGhazy-2002?tab=repositories)
 
-***— Mostafa Rayan***
+[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=EmanGhazy-2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+---
+
+<table><tr><td valign="top" width="50%">
+
+<br>
+
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.activity.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" >
+
+</td></tr></table>
+
+</details>
+
+---
+
+<img src="./assets/metrics.plugin.wakatime.svg">
+
+---
+
+<img src="./assets/metrics.plugin.achievements.svg">
+
+---
+
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=EmanGhazy-2002&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
+
+### :writing_hand: Blog  : [EmanGhazy-2002](https://EmanGhazy-2002.github.io/Blog/)
+
+![snake gif](https://github.com/EmanGhazy-2002/EmanGhazy-2002/blob/output/github-contribution-grid-snake-dark.svg)
