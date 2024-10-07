@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NodeJS;" alt="Typing SVG" /></a>
 </p>
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Rayan1924&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Rayan1924&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Rayan1924" /> </p>
 - 📫 How to reach me **mostafarayan880@gmail.com**
 
 
