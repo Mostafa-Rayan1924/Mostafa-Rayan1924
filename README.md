@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rayan</h1>
+<img src="Assets/light_line.gif"
+    alt="lineimg">
 <h3 align="center">Software Engineer (Front End)</h3>
 
 <p align="center">
