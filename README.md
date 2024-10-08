@@ -6,8 +6,7 @@
 </p>
 
 - 📫 How to reach me **mostafarayan880@gmail.com**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Rayan1924&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/?fbclid=IwAR0PKgq_1wc3l0TJMIoH6AK9lxbVVgeUZRbrQrXEZuu_bYssTZNhtViJTcM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
