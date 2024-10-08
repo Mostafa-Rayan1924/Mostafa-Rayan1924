@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rayan</h1>
 <h3 align="center">Software Engineer (Front End)</h3>
-<img src="light_line.gif"
+<img src="https://tse2.mm.bing.net/th?id=OIP.K4v_YUpSYIoDAFatCp2agAHaEK&pid=Api&P=0&h=220"
     alt="lineimg">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NextJs;" alt="Typing SVG" /></a>
