@@ -5,8 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=076b2a&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NextJs;" alt="Typing SVG" /></a>
 </p>
 
-- 📫 How to reach me **mostafarayan880@gmail.com**
-- 
+- 💻 I specialize in crafting modern and responsive web designs using Next.js and Tailwind CSS.
+- ⚙️ Skilled in integrating APIs and building interactive UI components.
+- 🚀 I'm constantly exploring new technologies and staying up-to-date with industry trends.
+
 
 ## <img src="https://github.com/Mo7ammedd/Mo7ammedd/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
