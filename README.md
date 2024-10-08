@@ -21,7 +21,7 @@
 
 
 </p>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 ## Stack
 <table>
    <tbody>
@@ -173,8 +173,8 @@
       </tr>
    </tbody>
 </table>
-
-<!--<h2> Programming Languages</h2>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<h2> Programming Languages</h2>
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
