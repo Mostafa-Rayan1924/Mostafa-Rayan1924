@@ -22,7 +22,7 @@
 
 </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-## Stack
+##Stack
 <table>
    <tbody>
       <tr>
@@ -179,7 +179,7 @@
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="" src="https://tse2.mm.bing.net/th?id=OIP.b2Z9JpXGA7-nhe6Xm371AwHaEK&pid=Api&P=0&h=220"></a>
+    <img alt="JSR Version" src="https://img.shields.io/jsr/v/:scope/typescript">
     <a href="#"><img alt="" src="https://tse3.mm.bing.net/th?id=OIP.9IxwivMIXUjFafeGM3rxRQHaEK&pid=Api&P=0&h=220"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://tse4.mm.bing.net/th?id=OIP.MoMnso-8h70O0aoY7TXcvgHaEK&pid=Api&P=0&h=220"></a>
