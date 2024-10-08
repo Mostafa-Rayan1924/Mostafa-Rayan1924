@@ -8,17 +8,15 @@
 - 📫 How to reach me **mostafarayan880@gmail.com**
 - 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/?fbclid=IwAR0PKgq_1wc3l0TJMIoH6AK9lxbVVgeUZRbrQrXEZuu_bYssTZNhtViJTcM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Mostafa-Rayan1924" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Ali_Nour" height="30" width="40" /></a>            
-  <a href="https://www.facebook.com/tata.rayan.5" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Rayan" height="30" width="40" /></a>                                                                           
- <a href="https://wa.me/201156581025" target="blank"><img align="center"
-      src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg"
-      alt="ali Nour" height="30" width="40" /></a>
-
+## <img src="https://github.com/Mo7ammedd/Mo7ammedd/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:mostafarayan880@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Mostafa-Rayan1924"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/02056581025"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
+	
+</a>
 
 </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
