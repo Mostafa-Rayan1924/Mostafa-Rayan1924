@@ -23,156 +23,91 @@
 
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Stack
  
-<table>
-   <tbody>
-      <tr>
-         <td>OS</td>
-         <td>
-            <a
-               href="https://www.microsoft.com/en-us/software-download/windows10"
-               title="Windows"
-               >
-            <img
-               src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png"
-               alt="Windows"
-               height="32"
-               />
-            </a>
-            <a href="" title="virtualbox ">
-            <img
-               src="https://www.linux.org/images/logo.png"
-               alt="Linux icon"
-               height="32"
-               />
-            </a>
-         </td>
-      </tr>
-      <tr>
-         <td>Tools</td>
-         <td>
-            <a href="https://code.visualstudio.com/" title="VSCode">
-            <img
-               src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
-               alt="VSCode icon"
-               height="32"
-               />
-            </a>
-            <a
-               href="https://www.mathworks.com/products/matlab.html"
-               title="Matlab"
-               >
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"
-               alt="Matlab Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://git-scm.org" title="git">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-               alt="git icon"
-               height="32"
-               />
-            </a>
-            <a href="https://github.com" title="GitHub">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-               alt="GitHub icon"
-               height="32"
-               />
-            </a>
-            <a href="https://mozilla.org/firefox/" title="Figma">
-            <img
-               src="https://s.yimg.com/zb/imgv1/8c5e5e6e-2324-3f87-8ad8-3038797b7551/t_1024x1024"
-               alt="Figma icon"
-               height="32"
-               />
-            </a>
-            <a href="https://www.google.com/chrome/" title="Chrome">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"
-               alt="Chrome Icon"
-               height="32"
-               />
-            </a>
-            <a href="https://mozilla.org/firefox/" title="Firefox">
-            <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg"
-               alt="Firefox icon"
-               height="32"
-               />
-            </a>
-         </td>
-      </tr>
-     <tr>
-         <td>Frontend</td>
-         <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="32"/>
-            </a>
-            <a href="https://www.w3schools.com/css/" title="Css">
-              <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css icon" height="32"/>
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML Icon" height="32"/>
-            </a>
-            <a href="https://getbootstrap.com" title="Bootstrap 4 and 5">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" height="32"/>
-            </a>
-            <a href="#">
-              <img src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220" alt="" height="32"/>
-            </a>
-            <a href="#">
-              <img src="https://tse1.mm.bing.net/th?id=OIP.K-4RqDC6zFrpAG31ayDDOgHaHa&pid=Api&P=0&h=220" alt="" height="32"/>
-            </a>
-            <a href="#">
-              <img src="https://tse1.mm.bing.net/th?id=OIP.rcKVwmwg1wZlroN8v1nBeAHaHa&pid=Api&P=0&h=220" alt="" height="32"/>
-            </a>
-         </td>
-      </tr>
-      <tr>
-           <td>Backend</td>
-         <td>
-            <a
-               href="#"
-               title="nodejs"
-               >
-            <img
-               src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
-               alt="nodejs"
-               height="32"
-               />
-            </a>
-            <a
-               href="#"
-               title="Expressjs"
-               >
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
-               alt="Expressjs"
-               height="32"
-               />
-            </a>
-            <a href="#" title="MongoDB">
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-               alt="MongoDB"
-               height="30"
-               />
-            </a>
-            <a href="#" title="Postman">
-            <img
-               src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
-               alt="Postman"
-               height="30"
-               />
-            </a>
-         </td>
-      </tr>
-      <tr>
-      </tr>
-   </tbody>
+<table style="width: 100%; text-align: center;">
+  <tbody>
+    <tr>
+      <th>OS</th>
+      <td>
+        <a href="https://www.microsoft.com/en-us/software-download/windows10" title="Windows">
+          <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="Windows" height="32" />
+        </a>
+        <a href="" title="Linux">
+          <img src="https://www.linux.org/images/logo.png" alt="Linux" height="32" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>Tools</th>
+      <td style="padding: 10px;">
+        <a href="https://code.visualstudio.com/" title="VSCode">
+          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" height="32" />
+        </a>
+        <a href="https://www.mathworks.com/products/matlab.html" title="Matlab">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" height="32" />
+        </a>
+        <a href="https://git-scm.org" title="git">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="32" />
+        </a>
+        <a href="https://github.com" title="GitHub">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="32" />
+        </a>
+        <a href="https://mozilla.org/firefox/" title="Figma">
+          <img src="https://s.yimg.com/zb/imgv1/8c5e5e6e-2324-3f87-8ad8-3038797b7551/t_1024x1024" alt="Figma" height="32" />
+        </a>
+        <a href="https://www.google.com/chrome/" title="Chrome">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" height="32" />
+        </a>
+        <a href="https://mozilla.org/firefox/" title="Firefox">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox" height="32" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>Frontend</th>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="32" />
+        </a>
+        <a href="https://www.w3schools.com/css/" title="CSS">
+          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" height="32" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="32" />
+        </a>
+        <a href="https://getbootstrap.com" title="Bootstrap">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="32" />
+        </a>
+        <a href="#" title="Tailwind CSS">
+          <img src="https://tse1.mm.bing.net/th?id=OIP.FQR3B8ppNjvaw4XFHiZyBAHaEK&pid=Api&P=0&h=220" alt="Tailwind CSS" height="32" />
+        </a>
+        <a href="#" title="React">
+          <img src="https://tse1.mm.bing.net/th?id=OIP.K-4RqDC6zFrpAG31ayDDOgHaHa&pid=Api&P=0&h=220" alt="React" height="32" />
+        </a>
+        <a href="#" title="Next.js">
+          <img src="https://tse1.mm.bing.net/th?id=OIP.rcKVwmwg1wZlroN8v1nBeAHaHa&pid=Api&P=0&h=220" alt="Next.js" height="32" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>Backend</th>
+      <td>
+        <a href="#" title="Node.js">
+          <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="32" />
+        </a>
+        <a href="#" title="Express.js">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="32" />
+        </a>
+        <a href="#" title="MongoDB">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="30" />
+        </a>
+        <a href="#" title="Postman">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" height="30" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### <img src = "https://github.com/Mo7ammedd/Mo7ammedd/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
