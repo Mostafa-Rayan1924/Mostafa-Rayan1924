@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer (Front End)</h3>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=02511e&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NextJs;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=076b2a&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NextJs;" alt="Typing SVG" /></a>
 </p>
 
 - 📫 How to reach me **mostafarayan880@gmail.com**
