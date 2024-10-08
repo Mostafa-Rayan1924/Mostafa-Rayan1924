@@ -4,8 +4,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=4493f8&center=true&vCenter=true&width=600&height=100&lines=Information+System+Student+at (SCU);Frontend+Developer+with+NextJs;" alt="Typing SVG" /></a>
 </p>
+
 - 📫 How to reach me **mostafarayan880@gmail.com**
 - 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mostafa-rayan-86305b247/?fbclid=IwAR0PKgq_1wc3l0TJMIoH6AK9lxbVVgeUZRbrQrXEZuu_bYssTZNhtViJTcM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinourr" height="30" width="40" /></a>
